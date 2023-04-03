@@ -16,7 +16,7 @@ factors that shows the crop’s yield well before the harvest
 - Contains the crop yield production of 10 crops from all states and union territories from India. Records start from 1990 to 2013.
 - 20,847 Rows with 7 attributes : Area, Item, Year, Yield (hg/ha), Average Rainfall (mm), Pesticides, Average Temperature. 
 
-### Models USed
+### Models Used
 - Machine Learning
 - Ensemble supervised Learning
 - Extra Trees Regressor
